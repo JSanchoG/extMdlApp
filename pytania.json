@@ -1,0 +1,152 @@
+[
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "PN-EN 50174 rozplot kabla UTP nie powinien",
+    "odp": "13"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "na rysunku przedstawiającym schemat systemu sieciowego według normy PN-EN 50173 wskazuje",
+    "odp": "pionowe"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "kabel UTP 5e z przeplotem jest tworzony poprzez zamianę ułożenia we wtyczce 8P8C następujących par przewodów",
+    "odp": "biało-pomarańczowy i pomarańczowy z biało-zielonym i zielonym"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "publikującą dokumenty RFC",
+    "odp": "IETF"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "zabezpieczyć komunikację terminalową z serwerem, należy użyć połączenia",
+    "odp": "SSH"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "obserwacji pakietów za pomocą sniffera zauważono, że urządzenia komunikują się na portach 20 oraz 21",
+    "odp": "FTP"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "w której pracuje protokół, jest poprawnie połączona według modelu TCP/IP",
+    "odp": "RIP"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "towarowy dla certyfikowanych produktów opartych na standardach",
+    "odp": "Wi-Fi"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "transmisji danych do jednego bądź kilku komputerów w jednej chwili",
+    "odp": "multicast"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "modelu ISO/OSI protokoły TCP i UDP pracują w warstwie",
+    "odp": "transportowej"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "połączenia między dwoma odległymi hostami, za pośrednictwem publicznej sieci, np. Internet, w taki sposób, że węzły tej sieci są",
+    "odp": "VPN"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "W trakcie tworzenia projektu sieci komputerowej należy w pierwszej kolejności",
+    "odp": "analizę biznesową"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "umożliwia komputerom bezprzewodowy dostęp do przewodowej sieci",
+    "odp": "dostępowy"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "należy zastosować w środowisku, w którym występują zakłócenia elektromagnetyczne, jeśli odległość od punktu dystrybucyjnego do",
+    "odp": "100BaseFX"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "której klasy adresów IPv4 należą adresy zawierające najbardziej znaczące dwa bity o wartości 10",
+    "odp": "Klasy B"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "z adresów jest adresem hosta należącego do sieci 10.128.0.0/10",
+    "odp": "10.160.255.255"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "IPv6 typowy podział długości związanej z adresem sieci i identyfikatorem hosta",
+    "odp": "64 bit"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "IPv6 2001:0:db8::1410:80ab to",
+    "odp": "2001:0000:0db8:0000:0000:0000:1410:80ab"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "maksymalnie adresów można przydzielić hostom w sieci 10.0.0.0/22",
+    "odp": "1022"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "polecenie systemu z rodziny Windows pozwala sprawdzić, przechowywane w pamięci podręcznej komputera, zapamiętane tłumaczenia",
+    "odp": "displaydns"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "serwer Windows mógł zarządzać usługami katalogowymi",
+    "odp": "kontroler domeny"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "serwerowa, która umożliwia udostępnianie linuksowych usług drukowania oraz serwera plików",
+    "odp": "Samba"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "serwer WWW, dostępny dla wielu systemów operacyjnych",
+    "odp": "Apache"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "do wirtualizacji dostępne jako rola w systemie Windows Serwer 2012",
+    "odp": "Hyper-V"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "użytkownika systemu Windows Serwer, który nie zapisuje, ani na serwerze ani na stacji roboczej, zmian wprowadzanych",
+    "odp": "mobilny"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "protokół zostanie zastosowany przez administratora w celu zamieszczenia plików",
+    "odp": "FTP"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "dzięki któremu po połączeniu z serwerem pocztowym transmitowane są na komputer jedynie same nagłówki",
+    "odp": "IMAP"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "systemów z rodziny Windows stosowane do modyfikowania parametrów pracy interfejsów sieciowych",
+    "odp": "netsh"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "automatycznie pobiera adres IP z serwera DHCP. W przypadku gdy serwer DHCP ulegnie uszkodzeniu",
+    "odp": "169.254.0.1"
+  },
+  {
+    "exam": "e13-2021-czerwiec",
+    "pyt": "firma, której serwery DNS zaatakowano",
+    "odp": "DDOS"
+  }
+]
